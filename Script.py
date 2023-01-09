@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """<b><i>ʜᴇʏ 👋  {}  ʙᴜᴅᴅʏ 💝
-ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Adv_AutoFilBot><b> Wᴀᴢᴇᴇᴍ </b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💗</b></i>"""
+ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Adv_AutoFilBot><b> Wᴀᴢᴇᴇᴍ </b></a>Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ Tᴇᴀᴍ Cɪɴᴇᴍᴀ Lᴏᴋᴀᴍ...!!!</b></i>"""
     HELP_TXT = """<b>🚩 ʜᴇʟʟᴏ {} ʙᴜᴅᴅʏ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 💝</b>"""
     ABOUT_TXT = """<b><i>• ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Adv_AutoFilBot><b>Wᴀᴢᴇᴇᴍ</b></a>\n
-• ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/humen_tg><b>Hᴜᴍᴇɴ ⛔</b></a>\n
+• ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Nived_1_0_1><b>ɴɪᴠᴇᴅ🕊️</b></a>\n
 • ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 • ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 • ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
